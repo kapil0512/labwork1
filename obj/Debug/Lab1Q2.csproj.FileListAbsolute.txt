@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\labwork1\Lab1Q2\bin\Debug\Lab1Q2.exe.config
+C:\Users\Hp\source\repos\labwork1\Lab1Q2\bin\Debug\Lab1Q2.exe
+C:\Users\Hp\source\repos\labwork1\Lab1Q2\bin\Debug\Lab1Q2.pdb
+C:\Users\Hp\source\repos\labwork1\Lab1Q2\bin\Debug\labwork1.dll
+C:\Users\Hp\source\repos\labwork1\Lab1Q2\bin\Debug\labwork1.pdb
+C:\Users\Hp\source\repos\labwork1\Lab1Q2\obj\Debug\Lab1Q2.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\labwork1\Lab1Q2\obj\Debug\Lab1Q2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\labwork1\Lab1Q2\obj\Debug\Lab1Q2.csproj.CopyComplete
+C:\Users\Hp\source\repos\labwork1\Lab1Q2\obj\Debug\Lab1Q2.exe
+C:\Users\Hp\source\repos\labwork1\Lab1Q2\obj\Debug\Lab1Q2.pdb
